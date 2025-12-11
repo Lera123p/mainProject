@@ -128,11 +128,10 @@ def ai(data):
 
 if __name__ == '__main__':
     while True:
-        ask_name = input("Enter a name of product: ")
+        ask_name = input("Enter a name of product: ").lower()
         tool = AnalyzeFood(ask_name)
         results = tool.show()
         advise = ai(tool.get_data())
-
         print(results)
         print(f"Your AI advise: {advise}")
 
@@ -143,4 +142,13 @@ if __name__ == '__main__':
                 file.write(f"Main information: {results}\n")
                 file.write(f"AI advise: {advise}\n")
         except:
-                print("Write error")
+            print("Write error")
+
+        askContinue = input("Do you want to continue to research? (yes/no): ")
+        if askContinue.lower() in "yes":
+            continue
+        else:
+            print("We will glad to see your again! Your AnalyzeBot :)")
+            break
+
+
