@@ -1,0 +1,264 @@
+Name of product: 5000 burgers
+Main information: Today you ate 5000 burgers, there are 2742613.0 calories.
+PFC of product:
+-133651.0 grams of fat. Throw away this product! It is a fat bomb
+-170714.0 grams of protein. It is so good for pump your muscles!
+-200058.5 grams of carbo. Do not eat this product at night
+AI advise: this can cause a double chin to develop, hehe
+Name of product: cvmncx
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------Name of product: can of tuna
+Main information: Today you ate can of tuna, there are 133.3 calories.
+PFC of product:
+-0.6 grams of fat. It is healthy food! Enjoy
+-29.4 grams of protein. It is so good for pump your muscles!
+-0.0 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: can of tuna
+Main information: Today you ate can of tuna, there are 133.3 calories.
+PFC of product:
+-0.6 grams of fat. It is healthy food! Enjoy
+-29.4 grams of protein. It is so good for pump your muscles!
+-0.0 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: apple
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: pizza
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: burger
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: bread
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: bread
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: bread
+Main information: Today you ate bread, there are 261.6 calories.
+PFC of product:
+-3.4 grams of fat. It is healthy food! Enjoy
+-8.8 grams of protein. Amount of protein is low
+-50.2 grams of carbo. Do not eat this product at night
+AI advise: no advise :)
+------------------------------
+Name of product: bread
+Main information: Today you ate bread, there are 261.6 calories.
+PFC of product:
+-3.4 grams of fat. It is healthy food! Enjoy
+-8.8 grams of protein. Amount of protein is low
+-50.2 grams of carbo. Do not eat this product at night
+AI advise: no advise :)
+------------------------------
+Name of product: 10 can of cola
+Main information: Today you ate 10 can of cola, there are 1587.5 calories.
+PFC of product:
+-9.4 grams of fat. It is healthy food! Enjoy
+-0.0 grams of protein. Amount of protein is low
+-387.9 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 10 can of cola
+Main information: Today you ate 10 can of cola, there are 1587.5 calories.
+PFC of product:
+-9.4 grams of fat. It is not fat food! Enjoy
+-0.0 grams of protein. Amount of protein is low
+-387.9 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 500 spoon of sugar
+Main information: Today you ate 500 spoon of sugar, there are 8097.1 calories and 2101.1 grams of sugar. 2101.1
+PFC of product:
+-0.0 grams of fat. It is not fat food! Enjoy
+-0.0 grams of protein. Amount of protein is low
+-2096.3 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 500 spoon of sugar
+Main information: Today you ate 500 spoon of sugar, there are 8097.1 calories and 2101.1 grams of sugar. It has so many sugar. Throw away this product!
+PFC of product:
+-0.0 grams of fat. It is not fat food! Enjoy
+-0.0 grams of protein. Amount of protein is low
+-2096.3 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: milk
+Main information: Today you ate milk, there are 51.3 calories and 0.0 grams of sugar. Amount of sugar is low
+PFC of product:
+-1.9 grams of fat. It is not fat food!
+-3.5 grams of protein. Amount of protein is low
+-4.9 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: 10000 spoon of sugar
+Main information: Today you ate 10000 spoon of sugar, there are 161943.0 calories and 42022.0 grams of sugar. It has so many sugar. Throw away this product!
+PFC of product:
+-0.0 grams of fat. It is not fat food!
+-0.0 grams of protein. Amount of protein is low
+-41926.0 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 10000 spoon of sugar
+Main information: Today you ate 10000 spoon of sugar, there are 161943.0 calories and 42022.0 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-0.0 grams of fat. It is not fat food!
+-0.0 grams of protein. Amount of protein is low
+-41926.0 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 5 bananas
+Main information: Today you ate 5 bananas, there are 515.8 calories and 71.8 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-2.0 grams of fat. It is not fat food!
+-6.5 grams of protein. Amount of protein is low
+-132.3 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: banana
+Main information: Today you ate banana, there are 89.4 calories and 12.3 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-0.3 grams of fat. It is not fat food!
+-1.1 grams of protein. Amount of protein is low
+-23.2 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: 500 burgers
+Main information: Today you ate 500 burgers, there are 274261.3 calories and 0.0 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-13365.1 grams of fat. Throw away this product! It is a fat bomb
+-17071.4 grams of protein. It is so good for pump your muscles!
+-20005.8 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can cause a double chin to develop, hehe
+------------------------------
+Name of product: 1000 kg of potatos
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: 100 kg of mashrooms
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: 100 kf of cucumbers
+Main information: Today you ate 100 kf of cucumbers, there are 3033.0 calories and 334.5 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-21.8 grams of fat. Do not eat this food at night. It is so unhealthy!
+-130.9 grams of protein. It is so good for pump your muscles!
+-717.9 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: cucumber
+Main information: Today you ate cucumber, there are 15.3 calories and 1.7 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-0.1 grams of fat. It is not fat food!
+-0.6 grams of protein. Amount of protein is low
+-3.7 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: 100 spoon of sugar
+Main information: Today you ate 100 spoon of sugar, there are 1619.4 calories and 420.2 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-0.0 grams of fat. It is not fat food!
+-0.0 grams of protein. Amount of protein is low
+-419.3 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: 10 apples
+Main information: Today you ate 10 apples, there are 972.5 calories and 188.3 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-3.0 grams of fat. It is not fat food
+-4.7 grams of protein. Amount of protein is low
+-250.6 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: apples
+Main information: Today you ate apples, there are 53.4 calories and 10.3 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-0.2 grams of fat. It is not fat food
+-0.3 grams of protein. Amount of protein is low
+-13.8 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: chocolate
+Main information: Today you ate chocolate, there are 540.2 calories and 51.4 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-29.4 grams of fat. Do not eat this food at night. It is so unhealthy!
+-7.8 grams of protein. Amount of protein is low
+-58.9 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: bread
+Main information: Today you ate bread, there are 261.6 calories and 5.7 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-3.4 grams of fat. It is not fat food
+-8.8 grams of protein. Amount of protein is low
+-50.2 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: no advise :)
+------------------------------
+Name of product: 12 gfggf
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: 1 spoon of sugar
+Main information: Today you ate 1 spoon of sugar, there are 16.2 calories and 4.2 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-0.0 grams of fat. It is not fat food
+-0.0 grams of protein. Amount of protein is low
+-4.2 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: sugar
+Main information: Today you ate sugar, there are 385.6 calories and 100.1 grams of sugar.
+It has so many sugar. Throw away this product!
+PFC of product:
+-0.0 grams of fat. It is not fat food
+-0.0 grams of protein. Amount of protein is low
+-99.8 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can make acne worse!
+------------------------------
+Name of product: vnnvc
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: milk
+Main information: Today you ate milk, there are 51.3 calories and 0.0 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-1.9 grams of fat. It is not fat food
+-3.5 grams of protein. Amount of protein is low
+-4.9 grams of carbo. Level of amount of carbo is ok
+AI advise: no advise :)
+------------------------------
+Name of product: 100 ml of bear
+Main information: Not clear information
+AI advise: not normal name of product = not advise
+------------------------------
+Name of product: 100 ml of beer
+Main information: Today you ate 100 ml of beer, there are 15407.9 calories and 0.0 grams of sugar.
+Amount of sugar is low
+PFC of product:
+-0.0 grams of fat. It is not fat food
+-164.7 grams of protein. It is so good for pump your muscles!
+-1284.3 grams of carbo. Do not eat this product at night, because you will have swelling in the morning
+AI advise: this can cause a double chin to develop, hehe
